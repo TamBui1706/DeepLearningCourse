@@ -1,2 +1,2 @@
 # DeepLearningCourse
-Môn học deep learning
+Deep Learning Course Github
