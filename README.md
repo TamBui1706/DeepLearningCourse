@@ -1,2 +1,2 @@
 # DeepLearningCourse
-Deep Learning Course Github
+Deep Learning Course Repository
